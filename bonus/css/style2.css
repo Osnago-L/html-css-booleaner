@@ -3,15 +3,13 @@
     margin: 0;
   }
 
-body{
+main, footer{
     max-width: 1050px;
     margin: auto;
 }
-main{
+  /* main, footer{
     margin-left: 5px;
-    /* max-width: 800px;
-    margin: auto; */
-}
+}   */
 /* banner */
 #head {
     background-image: url("../img/pattern.png");
@@ -20,9 +18,9 @@ main{
     height: 90px;
 }
 #logo{
-    width: 180px;
-    margin-top: 40px;
-    margin-left: 5px;
+    width: 180px; 
+    margin-top: 40px; 
+     margin-left: 145px;
     
 }
 /* /banner */
