@@ -48,4 +48,19 @@ main img{
     margin-top: 20px;
     margin-bottom: 20px;
 }
+#tabella table{
+    margin-top: 20px;
+
+}
+#tabella th{
+    background-color: #20a9e5;
+    color: white;
+    width: 350px;
+
+}
+#tabella tbody td{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
 
