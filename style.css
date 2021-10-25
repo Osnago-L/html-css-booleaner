@@ -28,7 +28,7 @@ h1{
     margin-top: 10px;
     font-size: 40px;
 }
-#titolo p{
+#titolo p, footer h4{
     color: #909090;
 }
 #titolo span{
@@ -44,23 +44,32 @@ main img{
 }
 /* /immagini */
 /* testo centrale */
-#corpo_testo p {
+.paragrafo {
     margin-top: 20px;
     margin-bottom: 20px;
 }
 #tabella table{
     margin-top: 20px;
+    border-collapse: collapse;
 
 }
 #tabella th{
     background-color: #20a9e5;
     color: white;
     width: 350px;
+    text-align: left;
 
 }
 #tabella tbody td{
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
     
+}
+.ta_blu{
+    background-color: #b1e5f2;
+
+}
+.bigt{
+    width: 450px;
 }
 
